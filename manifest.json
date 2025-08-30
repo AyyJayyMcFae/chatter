@@ -1,20 +1,21 @@
 {
-  "name": "The Iron Crypt",
-  "short_name": "IronCrypt",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#151515",
-  "theme_color": "#222222",
-  "icons": [
-    {
-      "src": "https://github.com/AyyJayyMcFae/The-Iron-Crypt/blob/main/Images/logo.png?raw=true",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://github.com/AyyJayyMcFae/The-Iron-Crypt/blob/main/Images/logo.png?raw=true",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+"name": "The Coffee Mugg",
+"short_name": "Coffee Mugg",
+"description": "Your magical coffee shop, now on your phone.",
+"start_url": "/index.html",
+"display": "standalone",
+"background_color": "#150c01",
+"theme_color": "#facc15",
+"icons": [
+{
+"src": "https://www.google.com/search?q=https://placehold.co/192x192/150c01/facc15%3Ftext%3DC",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "https://www.google.com/search?q=https://placehold.co/512x512/150c01/facc15%3Ftext%3DC",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
 }
